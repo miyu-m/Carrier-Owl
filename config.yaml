@@ -3,19 +3,20 @@ subject: 'cat:astro-ph.EP OR cat:astro-ph.SR'
 
 # 検索キーワード
 keywords:
-        protoplanetary disk: 5
-        protoplanetary disks: 5
-        CB68: 5
-        CB 68: 5
+        protoplanetary: 5
         planet formation: 5
+        protostar: 5
+        Class 0: 5
+        Class Ⅰ: 4
         Ophiuchus: 4
         ALMA: 4
         disk: 4
         disks: 4
         low mass: 4
-        protostar: 3
+        star formation: 3 
         envelope: 2
         outflow: 2
+        infalling: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
