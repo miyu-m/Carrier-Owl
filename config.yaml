@@ -1,7 +1,6 @@
 # arxivの学問領域の指定
 subject:       
-      'cat:astro-ph.EP'
-      'cat:astro-ph.SR'
+      'cat:astro-ph.EP OR cat:astro-ph.SR'
 # 検索キーワード
 keywords:
         protoplanetary: 5
